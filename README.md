@@ -16,10 +16,6 @@ Project12_Calculator is a simple calculator application designed to help sharpen
 - Click the `=` button to get the result.
 - Use the `C` button to clear the input.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - Basic concepts learned from various JavaScript tutorials and resources.
